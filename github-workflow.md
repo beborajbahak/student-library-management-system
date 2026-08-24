@@ -1,14 +1,33 @@
-# GitHub Workflow Evidence
+# GitHub Workflow
 
-Suggested commit messages:
-1. Initial React project setup
-2. Add requirements and stakeholder analysis
-3. Add UML design diagrams
-4. Add authentication and student accounts
-5. Add library management pages
-6. Add testing matrix
-7. Update UI theme and navigation
+This document records the version control practices used for this project, supporting Chapter 7 (Software Configuration and Version Management) of the final report.
 
-Suggested branch: `feature/library-management`
+## Branching Strategy
+- `main` — stable, working version of the application
+- `feature/*` — used for isolated development work before merging back into `main`
 
-Suggested pull request: Merge `feature/library-management` into `main` after review.
+## Commit History
+The project was built through multiple incremental commits rather than a single upload, covering:
+- Initial project setup (Vite + React scaffold)
+- Requirements documentation
+- UML diagram additions
+- React component development (Dashboard, Manage Books, Issue/Return, etc.)
+- Testing documentation
+- Final report and project documentation
+
+See commit history: `git log --oneline --graph --all`
+
+## Feature Branch & Pull Request
+A feature branch was created to demonstrate basic Git workflow:
+```bash
+git checkout -b feature/documentation-update
+git add .
+git commit -m "Update documentation and add missing evidence files"
+git push -u origin feature/documentation-update
+```
+This branch was then opened as a pull request on GitHub and merged into `main`.
+
+- PR link: *[insert PR URL once created]*
+- Merge commit: *[insert commit hash once merged]*
+
+## Repository Structure

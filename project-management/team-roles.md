@@ -1,11 +1,10 @@
-# Team Roles
+# Team Members and Roles
 
-| Role | Responsibility |
-|---|---|
-| Project Manager | Sprint planning, Trello board, deadlines |
-| Requirements Analyst | Requirements and stakeholder analysis |
-| UI/Design Lead | UML diagrams and interface design |
-| Developer | React implementation |
-| Tester | Test cases and test evidence |
+| Member | Role | Responsibilities |
+|---|---|---|
+| Bebo Rajbahak | Requirements Analyst / Scrum Master / Frontend Developer | Requirement gathering, UML design, Scrum management, login, book search, add-book and book management features |
+| Aasha | Frontend Developer – Transactions | Borrowing, returning, and user account management |
+| Prashna | Frontend Developer – Reporting & History | Borrowing history and reporting views |
+| Reshma | Quality Assurance / Tester | Independent testing, recording test results, and checking completed features |
 
-For an individual project, the same student can perform all roles.
+The project was completed by four team members. Each developer was responsible for specific user stories, while Reshma tested the features independently.

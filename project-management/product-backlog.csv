@@ -1,0 +1,10 @@
+ID,User Story,Priority,Points,Owner
+US-1,"As a student, I want to log in so that I can access my library account.",High,3,Bebo
+US-2,"As a librarian, I want to add books so that students can borrow them.",High,5,Bebo
+US-3,"As a student, I want to search books by title so that I can find available books.",High,3,Bebo
+US-4,"As a student, I want to borrow books so that I can read them.",High,5,Aasha
+US-5,"As a student, I want to return borrowed books so that my record is updated.",High,5,Aasha
+US-6,"As a librarian, I want to update book information so that records remain accurate.",Medium,3,Bebo
+US-7,"As a librarian, I want to generate reports so that I can monitor library activities.",Medium,8,Prashna
+US-8,"As an administrator, I want to manage user accounts so that only authorized users can access the system.",High,5,Aasha
+US-9,"As a student, I want to view my borrowing history so that I can track the books I have borrowed.",Low,2,Prashna

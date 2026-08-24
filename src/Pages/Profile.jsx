@@ -1,0 +1,1 @@
+export default function Profile({user}){return <><div className="breadcrumb">Home <span>›</span> Profile</div><div className="page-title"><h1>Profile</h1></div><section className="profile-card"><div className="avatar large">{user.name.charAt(0)}</div><h2>{user.name}</h2><p>{user.email}</p><span className="badge success">{user.role}</span></section></>;}

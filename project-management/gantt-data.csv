@@ -1,0 +1,14 @@
+Task Name,Start,End,Duration (days)
+Requirements Gathering & Analysis,6/1/2026,6/12/2026,11
+System Design & Sprint Planning (UML Backlog),6/15/2026,6/23/2026,8
+US-1 Student Login (Bebo),6/24/2026,6/26/2026,2
+US-4 Borrow Books (Aasha),6/24/2026,6/30/2026,6
+US-2 Add Books (Bebo),6/29/2026,7/3/2026,4
+US-3 Search Books (Bebo),7/6/2026,7/8/2026,2
+US-6 Update Book Information (Bebo),7/9/2026,7/13/2026,4
+US-5 Return Books (Aasha),7/14/2026,7/20/2026,6
+US-7 Generate Reports (Prashna),7/14/2026,7/23/2026,9
+US-8 Manage User Accounts (Aasha),7/21/2026,7/27/2026,6
+US-9 Borrowing History (Prashna),7/24/2026,7/27/2026,3
+System Testing (Reshma) - 18 Test Cases,7/28/2026,8/5/2026,8
+"Documentation, GitHub Finalization & Report Submission",8/10/2026,8/19/2026,9

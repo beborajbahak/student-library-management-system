@@ -1,0 +1,11 @@
+Task,Role,Start,Deadline,Status,Story Points
+Set up React project,Developer,2026-08-04,2026-08-04,Done,2
+Prepare requirements,Analyst,2026-08-04,2026-08-05,Done,3
+Create UML diagrams,Designer,2026-08-05,2026-08-06,Done,3
+Build login,Developer,2026-08-06,2026-08-07,Done,3
+Build dashboard,Developer,2026-08-07,2026-08-08,Done,3
+Build book management,Developer,2026-08-08,2026-08-10,In Progress,5
+Build issue/return,Developer,2026-08-10,2026-08-11,To Do,5
+Prepare test cases,Tester,2026-08-11,2026-08-12,To Do,3
+Upload documents to GitHub,All,2026-08-12,2026-08-13,To Do,2
+Review and demo,All,2026-08-13,2026-08-14,To Do,2

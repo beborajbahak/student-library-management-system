@@ -28,6 +28,7 @@ npm run dev
 - Any student: student123
 
 ## Known Limitations
+As documented in the project report (Chapter 6 & 9):
 - Return status does not sync across all pages (BR-04)
 - My Borrowing is not filtered per student (BR-05)
 - Borrowing history page not implemented (ST-01)

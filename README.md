@@ -36,7 +36,7 @@ As documented in the project report (Chapter 6 & 9):
 - Report generation not implemented (ST-04)
 
 ## Team
-Bebo, Aasha, Prashna, Reshma — CSE 220, Summer 2026, IAU
+Bebo Rajbahak, Aasha, Prashna, Reshma — CSE 220, Summer 2026, IAU
 
 ## Project documentation
 - `requirements/` — functional, non-functional, stakeholders, techniques
